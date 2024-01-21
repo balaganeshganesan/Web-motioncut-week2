@@ -4,5 +4,6 @@ This is a simple and stylish registration form created using HTML and CSS. The f
 
 HTML Structure
 The HTML structure consists of a form with three input fields (username, email, and password) and a submit button.
+
 CSS Styling
 The form is styled with a modern and visually appealing design using CSS. The background color, fonts, and input styles contribute to an engaging user experience.
